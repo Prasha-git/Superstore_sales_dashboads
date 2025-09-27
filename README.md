@@ -1,6 +1,8 @@
 # Superstore_sales_dashboads
 Excel &amp; Tableau dashboards analyzing Superstore sales trends, top products, and regional profits.
 
+# Superstore Sales Dashboards (https://docs.google.com/spreadsheets/d/1Bo_1vHjHhwMbNeIB-kT_tkDTgBNdLaipXkjglaqb-68/edit?usp=sharing)
+
 ## Project Overview
 This project analyzes Superstore sales data and visualizes insights through dashboards. It helps identify trends, top products, and profitable regions. Built using Excel and Tableau.
 
